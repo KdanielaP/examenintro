@@ -1,0 +1,1 @@
+INSERT INTO alumno (nombre,carne,telefono,grado) value ('0907-23-22830','katherine portillo','55555'),('0907-23-22','daniela','segundo','101010'),('0907-22-45','Dani','tercero','77777'),('0907-22-45','Dani','tercero','77777'),('0907-22-45','jose','tercero','77777');        
